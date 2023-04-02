@@ -2,9 +2,8 @@
 
 Please navigate to the `Preview` tab and select the type of change you are making:
 
-[Bug](?expand=1&template=default.md)
-
-[Feature](?expand=1&template=default.md)
+- [Bug](?expand=1&template=bug.md)
+- [Feature](?expand=1&template=feature.md)
 
 <!-- 
 Github does not yet support selecting pull request templates from the UI, so we have to
